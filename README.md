@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a student with a strong interest in software d
 ## 🛠️ Skills & Technologies
 
 - **Languages:** Python, C, C++, C#, Java
-- **Database:** MySQL
+- **Database:** MySQL WorkBench
 - **Data Analytics:** Power BI
 - **Core Focus:** Problem-solving, project development, and learning new technologies
 
